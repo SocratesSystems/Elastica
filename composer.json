@@ -1,5 +1,5 @@
 {
-    "name": "socrates-systems/elastica",
+    "name": "socrates-systems/ruflin-elastica",
     "description": "Elasticsearch Client",
     "keywords": ["search","client"],
     "homepage": "http://elastica.io/",
